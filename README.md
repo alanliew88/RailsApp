@@ -1,5 +1,18 @@
 # README
 
+
+
+
+To start the rails server 
+
+navigate into this folder directory and hit `rails s`
+
+then open browser and go to localhost:3000
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
